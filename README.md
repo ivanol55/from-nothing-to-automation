@@ -78,7 +78,7 @@ You can also copy the contents of an old variable to a new one with the syntax `
 - Variables are labeled boxes you put data in
 - Label them according to their contents so you know what's insaide them in your code
 - You can save multitude of data types in a variable. `integers` like `-3`, `floats` like `9.17`, `strings` like `"hello"`, `lists` with mixed data types like `["This", "list", "has", 5, "elements"]`...
-- THis is all modular, so you can just overwrite variable contents  with `oldVariable = newVariable` or add up the contents of two variables with `result = varNum1 + varNum2`.
+- This is all modular, so you can just overwrite variable contents  with `oldVariable = newVariable` or add up the contents of two variables with `result = varNum1 + varNum2`.
 
 #### 2.2. Assignment
 Let's add a simple assignment for you to test this. You should open a new Visual Studio Code file with some name like `variables.py` and declare two variables, one per file line. The first one should be named `name` and should store your names as a `string`, and then one named `age` that should store your age as an `integer` number.
